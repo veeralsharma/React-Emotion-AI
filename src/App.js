@@ -46,12 +46,7 @@ function App() {
   }, []);
 
   return (
-    <>
-    <h1 style={{color:"white"}}>
-      React Emotion-AI
-    </h1>
-<video id="video" width="720" height="560" autoplay="true" ></video>
-    </>
+    <video id="video" width="720" height="560" autoplay="true" ></video>
       
   )
 }
