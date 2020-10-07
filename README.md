@@ -9,4 +9,4 @@ clone or download the repository
 run npm insta from the terminal
 run npm start 
 the website should launch on localhost:3000 on your browser
-
+![](https://github.com/veeralsharma/react-emotion-ai/blob/master/Capture.PNG)
